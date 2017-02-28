@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome HD Associative Memory
+
+Description
 
 You can use the [editor on GitHub](https://github.com/milesrusch/HD-Associative-Memory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
