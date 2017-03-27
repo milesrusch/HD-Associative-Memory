@@ -6,7 +6,7 @@
 
 **[Proposal](https://github.com/milesrusch/HD-Associative-Memory/blob/master/ee241b%20project%20proposal.pdf)** 
 
-**[Mid-Term Report](https://github.com/milesrusch/HD-Associative-Memory/edit/master/README.md)** 
+**[Mid-Term Report](https://github.com/milesrusch/HD-Associative-Memory/blob/master/ee241b_midterm_paper_20170426.pdf)** 
 
 **[Final Report](https://github.com/milesrusch/HD-Associative-Memory/edit/master/README.md)** 
 
